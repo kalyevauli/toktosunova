@@ -91,15 +91,15 @@ button {
     margin-top: 20px;
 }
 .hero-block h1{
-    /*padding-top: 170px;*/
-    /*padding-left: 50px;*/
-    /*font-weight: 700;*/
-    /*font-size: 24px;*/
-    /*  color: #FF5D24;*/
+    padding-top: 170px;
+    padding-left: 50px;
+    font-weight: 700;
+    font-size: 24px;
+      color: #FF5D24;
 
 }
 .circle{
-    top: 80px;
+    margin-top: 80px;
     width: 65px;
     height: 65px;
     background: rgba(86, 185, 180, 0.84);
